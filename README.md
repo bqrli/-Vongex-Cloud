@@ -1,2 +1,2 @@
 # -Vongex-Cloud
-Python bot
+# -А я не знаю, что писать тут:(
